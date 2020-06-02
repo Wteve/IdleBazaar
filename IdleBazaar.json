@@ -11,7 +11,7 @@
 			"panel_size": 10
 		},
 	    	"B": { 
-			"panel_size": 10
+			"panel_size": 10,
 			"interstitials_time":60
 		}
 	}
