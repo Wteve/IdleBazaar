@@ -1,7 +1,7 @@
 {
 	"DefaultValues": {
 
-		"interstitials_time": 300
+		"interstitials_time": 60
 	},
 	"ABtests": {
 		"Ref": {
