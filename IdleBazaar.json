@@ -1,20 +1,20 @@
 {
 	"DefaultValues": {
 
-		"interstitials_time": 60
+		"interstitials_time": 30
 	},
 	"ABtests": {
 		"Ref": {
 			"panel_size": 10,
-			"interstitials_time": 60
+			"interstitials_time": 30
 		},
 		"A": { 
 			"panel_size": 10,
-			"interstitials_time": 60
+			"interstitials_time": 30
 		},
 	    	"B": { 
 			"panel_size": 10,
-			"interstitials_time":60
+			"interstitials_time":30
 		}
 	}
 }
